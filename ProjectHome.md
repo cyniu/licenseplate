@@ -1,0 +1,1 @@
+A project about recognizing license plates.
